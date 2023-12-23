@@ -35,7 +35,7 @@ To set up the Calendar API on your local machine, follow the instructions below:
 1. Clone the project repository:
 
    ````shell
-   git clone <repository_url>
+   git clone https://github.com/zhuwaao/Event_Schedular/tree/master
    ```
 
 2. Open the project folder in Visual Studio Code or your preferred code editor.
